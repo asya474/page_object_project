@@ -1,5 +1,4 @@
-# page_object_project
-page_object_project
+
 This project is dedicated for autotesting in Python by using Pytest wth technique of test-design-page object pattern. In this project, you can see reflected the usual everyday experience of the user of the online store site. Test cases such as:
 -purchase of goods
 -transitions between pages of the site,
